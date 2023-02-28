@@ -1,0 +1,472 @@
+
+        <!--Project Two Start-->
+        <section class="project-two" id="portfolio">
+            <div class="container">
+                <div class="project-two__top">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="project-two__top-left">
+                                <div class="section-title text-left">
+                                    <span class="section-title__tagline">Complete Projects</span>
+                                    <h2 class="section-title__title">Keep Eye on Our New Developers / Projects</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="project-two__top-right">
+                                <!-- <p class="project-two__top-text">For real estate, we provide comprehensive, goal-driven digital marketing solutions that allow them to dominate their respective industries. Below are some of our project</p> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-two__bottom">
+                    <div class="row">
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client1.png" alt="">
+                                    <div class="project-one__content">
+                                        <!-- <h4 class="project-one__title"><a href="portfolio-details.html">Outdoor
+                                                Service</a></h4> -->
+                                        <p class="project-one__sub-title">PROP-HUNTER</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client1.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client2.png" alt="">
+                                    <div class="project-one__content">
+                                        <!-- <h4 class="project-one__title"><a href="portfolio-details.html">House
+                                                Cleaning</a></h4> -->
+                                        <p class="project-one__sub-title">PropExcellence</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client2.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client3.png" alt="">
+                                    <div class="project-one__content">
+                                        <!-- <h4 class="project-one__title"><a href="portfolio-details.html">Plumber
+                                                Service</a></h4> -->
+                                        <p class="project-one__sub-title">Homified Consultant</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client3.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client4.png" alt="">
+                                    <div class="project-one__content">
+                                        <!-- <h4 class="project-one__title"><a href="portfolio-details.html">Window
+                                                Cleaning</a></h4> -->
+                                        <p class="project-one__sub-title">Rising Spaces</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client4.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client5.png" alt="">
+                                    <div class="project-one__content">
+                                       <!--  <h4 class="project-one__title"><a href="portfolio-details.html">House
+                                                Cleaning</a></h4> -->
+                                        <p class="project-one__sub-title">Property Drone Realty</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client5.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client6.png" alt="">
+                                    <div class="project-one__content">
+                                       <!--  <h4 class="project-one__title"><a href="portfolio-details.html">Window
+                                                Cleaning</a></h4> -->
+                                        <p class="project-one__sub-title">Realty Assistant</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client6.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client7.png" alt="">
+                                    <div class="project-one__content">
+                                        <!-- <h4 class="project-one__title"><a href="portfolio-details.html">Window
+                                                Cleaning</a></h4> -->
+                                        <p class="project-one__sub-title">Choose Realtywise</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client7.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client8.png" alt="">
+                                    <div class="project-one__content">
+                                       <!--  <h4 class="project-one__title"><a href="portfolio-details.html">Window
+                                                Cleaning</a></h4> -->
+                                        <p class="project-one__sub-title">Urban Pillar</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client8.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                            <!--Project Two Single Start-->
+                            <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client9.png" alt="">
+                                    <div class="project-one__content">
+                                        <!-- <h4 class="project-one__title"><a href="portfolio-details.html">Window
+                                                Cleaning</a></h4> -->
+                                        <p class="project-one__sub-title">Optimum Nest</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client9.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Project Two Single End-->
+                        <!-- </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms"> -->
+                            <!--Project Two Single Start-->
+                            <!-- <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client10.png" alt="">
+                                    <div class="project-one__content">
+                                        <h4 class="project-one__title"><a href="portfolio-details.html">Window
+                                                Cleaning</a></h4>
+                                        <p class="project-one__sub-title">Domain Realty</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client10.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <!--Project Two Single End-->
+                        <!-- </div>
+                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms"> -->
+                            <!--Project Two Single Start-->
+                            <!-- <div class="project-one__single">
+                                <div class="project-one__img">
+                                    <img src="assets/images/project/client11.png" alt="">
+                                    <div class="project-one__content">
+                                        <h4 class="project-one__title"><a href="portfolio-details.html">Window
+                                                Cleaning</a></h4>
+                                        <p class="project-one__sub-title">Kaycomm</p>
+                                    </div>
+                                    <div class="project-one__arrow">
+                                        <a class="img-popup" href="assets/images/project/client11.png"><i
+                                                class="fa fa-angle-right"></i></a>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <!--Project Two Single End-->
+                        <!-- </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <!--Project Two End-->
+
+         <!--Project One Start-->
+        <section class="project-one" id="portfolio">
+            <div class="project-one__top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="project-one__left">
+                                <div class="section-title text-left">
+                                    <span class="section-title__tagline">Complete Developers</span>
+                                    <h2 class="section-title__title">Keep Eye on Our New Developers / Projects</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="project-one__right">
+                                <!-- <p class="project-one__text-1">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor
+                                    incidut labore et dolore magna for aliqua. Cum sociis natoque penatibus et mages.
+                                    Aene an massa.</p> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="project-one__bottom">
+                <div class="project-one__bottom-container">
+                    <div class="owl-carousel owl-theme thm-owl__carousel project-one__carousel" data-owl-options='{
+                        "loop": true,
+                        "autoplay": true,
+                        "margin": 30,
+                        "nav": false,
+                        "dots": true,
+                        "smartSpeed": 500,
+                        "autoplayTimeout": 10000,
+                        "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                        "responsive": {
+                            "0": {
+                                "items": 1
+                            },
+                            "768": {
+                                "items": 2
+                            },
+                            "992": {
+                                "items": 2
+                            },
+                            "1200": {
+                                "items": 4
+                            }
+                        }
+                    }'>
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client1.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">PROP-HUNTER</a>
+                                    </h4> 
+                                    <!-- <p class="project-one__sub-title">PROP-HUNTER</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client1.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client2.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">PropExcellence</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">PropExcellence</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client2.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client3.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">Homified Consultant</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">Homified Consultant</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client3.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client4.png" alt="">
+                                <div class="project-one__content">
+                                     <h4 class="project-one__title"><a href="#">Rising Spaces</a>
+                                    </h4> 
+                                    <!-- <p class="project-one__sub-title">Rising Spaces</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client4.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client5.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">Property Drone Realty</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">Property Drone Realty</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client5.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client6.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">Realty Assistant</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">Realty Assistant</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client6.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client7.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">Choose Realtywise</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">Choose Realtywise</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client7.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client8.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">Urban Pillar</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">Urban Pillar</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client8.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client9.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">Optimum Nest</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">Optimum Nest</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client9.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client10.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">Domain Realty</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">Domain Realty</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client10.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/client11.png" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="#">Kaycomm</a>
+                                    </h4>
+                                    <!-- <p class="project-one__sub-title">Kaycomm</p> -->
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/client11.png"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Project One Single End-->
+                        <!--Project One Single Start-->
+                        <!-- <div class="project-one__single">
+                            <div class="project-one__img">
+                                <img src="assets/images/project/project-1-4.jpg" alt="">
+                                <div class="project-one__content">
+                                    <h4 class="project-one__title"><a href="portfolio-details.html">Window Cleaning</a>
+                                    </h4>
+                                    <p class="project-one__sub-title">Cleaning Project</p>
+                                </div>
+                                <div class="project-one__arrow">
+                                    <a class="img-popup" href="assets/images/project/project-1-4.jpg"><i
+                                            class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
+                        </div> -->
+                        <!--Project One Single End-->
+                    </div>
+                </div>
+            </div>
+        </section>
